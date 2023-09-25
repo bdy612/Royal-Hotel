@@ -1,6 +1,6 @@
 header{
     height: 100vh;
-    background-image:linear-gradient(rgba(97,76,55,0.4), rgba(51,93,100,0.8)), url(images/Four\ Seasons.jpg);
+    background-image:linear-gradient(rgba(97,76,55,0.4), rgba(51,93,100,0.8)), url(Four\ Seasons.jpg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -23,7 +23,7 @@ header{
     transform: scale(1.1);
 }
 .sec2{
-    background-image: linear-gradient(rgba(97,76,55,0.4), rgba(51,93,100,0.8)), url(images/La-semaine.jpg);
+    background-image: linear-gradient(rgba(97,76,55,0.4), rgba(51,93,100,0.8)), url(La-semaine.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
