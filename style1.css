@@ -1,0 +1,49 @@
+header{
+    height: 100vh;
+    background-image:linear-gradient(rgba(97,76,55,0.4), rgba(51,93,100,0.8)), url(images/Four\ Seasons.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+.text{
+    transform: translateY(130%);
+}
+.nav{
+    background-color: rgba(11, 94,133, 0.7);
+}
+.sec1{
+    text-align: center;
+}
+.sec1 img{
+    width: 250px;
+    height: 250px;
+    transition: all 0.3s linear;
+}
+.sec1 img:hover{
+    transform: scale(1.1);
+}
+.sec2{
+    background-image: linear-gradient(rgba(97,76,55,0.4), rgba(51,93,100,0.8)), url(images/La-semaine.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.item2 i{
+    color: yellow;
+    margin-right: 10px;
+}
+footer{
+    background-color: rgb(46, 46, 55);
+    color: white;
+    font-size: 150%;
+}
+.sec3{
+    background: linear-gradient(rgba(97,76,55,0.4), rgba(51,93,100,0.8));
+}
+.sec3 .div2 img{
+    width: 450px;
+    height: 400px;
+}
+#email,#password{
+    text-transform: lowercase;
+}
